@@ -2,7 +2,7 @@
   <h2>⚛️ React Navigation - Decode ⚛️</h2>
 
   <i>
-    Mais um Decode com o Mestre [@Rodrigo](https://github.com/rodrigorgtic) da Rocketseat onde ensina como lidar com rotas no react native de forma certa,
+    Mais um Decode com o Mestre <a href='https://github.com/rodrigorgtic'>@Rodrigo</a> da Rocketseat onde ensina como lidar com rotas no react native de forma certa,
     aplicando os princípios mais adequados, tipagens corretas e exemplos práticos.
   </i>
   
